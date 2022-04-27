@@ -3,7 +3,7 @@
 ## I'm currently a Student at Broward College!
 - Currently working on mastering CSS and JavaScript!
 - I'm constantly Googling everything 🤣
-- 2022 🥅: Consistently code everyday!
+- 2022 Goals 🥅: Consistently code everyday!
 - Hobbies: Foodie 🍕, Outdoors 🍃 And CARS 🚘!
 - Quote: “In the truest sense, freedom cannot be bestowed; it must be achieved.” - Franklin D. Roosevelt
 - Fun Fact: I ❤️ CODDING!
