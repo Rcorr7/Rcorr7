@@ -17,8 +17,8 @@
 [![website](./img/linkedinlight25X25.png)](https://www.linkedin.com/feed/#gh-light-mode-only)
 [![website](./img/linkedindark25x25.png)](https://www.linkedin.com/feed/?trk=nav_logo#gh-dark-mode-only)
 <!-- GMAIL -->
-[![website](./img/gmaillight25x25.png.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/gmaildark25x25.png)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/gmaillight25x25.png.svg)](mailto:raulcorrea.rc@gmail.com)
+[![website](./img/gmaildark25x25.png)](mailto:raulcorrea.rc@gmail.com)
 
 
 
