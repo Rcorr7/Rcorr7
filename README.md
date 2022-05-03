@@ -10,16 +10,16 @@
 
 
 #### Connect with me: 
+[
 <!-- WEBSITE -->
-[![website](./img/weblightmode25x25.png)](https://codestackr.com#gh-light-mode-only) [![website](./img/beldark25x25.png)](https://codestackr.com#gh-dark-mode-only)
-<!-- [![website](./img/beldark25x25.png)](https://codestackr.com#gh-dark-mode-only) -->
+[![website](./img/weblightmode25x25.png)](https://codestackr.com#gh-light-mode-only) 
+[![website](./img/beldark25x25.png)](https://codestackr.com#gh-dark-mode-only)
 <!-- LINKED IN -->
 [![website](./img/linkedinlight25X25.png)](https://www.linkedin.com/feed/#gh-light-mode-only)
 [![website](./img/linkedindark25x25.png)](https://www.linkedin.com/feed/?trk=nav_logo#gh-dark-mode-only)
 <!-- GMAIL -->
 [![website](./img/gmaildark25x25.png)](mailto:raulcorrea.rc@gmail.com)
-
-
+]
 
 
 ### Languages and Tools:
