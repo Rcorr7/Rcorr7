@@ -1,4 +1,15 @@
-### Hi there, I'm Raul 
+<style>
+.heading1 {
+    color: red;
+    font-weight:700;
+    font-size: 35px;
+}
+
+</style>
+
+
+
+### Hi there, I'm Raul {#identifier .heading1}
 
 ## I'm currently a Student at Broward College!
 - Currently working on mastering CSS and JavaScript!
@@ -12,17 +23,15 @@
 #### Connect with me: 
 
 <!-- WEBSITE -->
-<!-- [![website](./img/weblightmode25x25.png)](https://codestackr.com#gh-light-mode-only) 
-[![website](./img/beldark25x25.png)](https://codestackr.com#gh-dark-mode-only) -->
+[![website](./img/weblightmode25x25.png)](https://codestackr.com#gh-light-mode-only) 
+[![website](./img/beldark25x25.png)](https://codestackr.com#gh-dark-mode-only)
 <!-- LINKED IN -->
-<!-- [![website](./img/linkedinlight25X25.png)](https://www.linkedin.com/feed/#gh-light-mode-only)
-[![website](./img/linkedindark25x25.png)](https://www.linkedin.com/feed/?trk=nav_logo#gh-dark-mode-only) -->
+[![website](./img/linkedinlight25X25.png)](https://www.linkedin.com/feed/#gh-light-mode-only)
+[![website](./img/linkedindark25x25.png)](https://www.linkedin.com/feed/?trk=nav_logo#gh-dark-mode-only)
 <!-- GMAIL -->
-<!-- [![website](./img/gmaildark25x25.png)](mailto:raulcorrea.rc@gmail.com) -->
+[![website](./img/gmaildark25x25.png)](mailto:raulcorrea.rc@gmail.com)
 
-<img align="left" alt="Visual Studio Code" width="26px" src="/img/weblightmode25x25" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="26px" src="/img/weblightmode25x25" style="padding-right:10px;" />
-<br>
+
 
 
 
