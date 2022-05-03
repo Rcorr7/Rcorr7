@@ -1,6 +1,6 @@
 
 ### Hi there, I'm Raul 👋
-
+![Banner](/img/git-banner1.png "banner")
 ## I'm currently studying Web Development full time at Broward College!
 - Currently working on mastering CSS and JavaScript!
 - I'm constantly Googling everything 🤣
