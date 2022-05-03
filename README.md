@@ -20,8 +20,9 @@
 <!-- GMAIL -->
 <!-- [![website](./img/gmaildark25x25.png)](mailto:raulcorrea.rc@gmail.com) -->
 
-<img align="left" alt="Visual Studio Code" width="26px" src="./img/weblightmode25x25" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="26px" src="./img/weblightmode25x25" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="26px" src="img/weblightmode25x25" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="26px" src="img/weblightmode25x25" style="padding-right:10px;" />
+<br>
 
 
 
