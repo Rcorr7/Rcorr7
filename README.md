@@ -23,7 +23,7 @@
 
 
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/nolan/64/gmail-new.png" style="padding-right:10px;" />[mailto:raulcorrea.rc@gmail.com]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/nolan/64/gmail-new.png" style="padding-right:10px;" (mailto:raulcorrea.rc@gmail.com) />
 
 
 
