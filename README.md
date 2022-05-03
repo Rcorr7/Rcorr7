@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Raul 👋
 
-## I'm currently a Student at Broward College!
+## I'm currently studying Web Development full time at Broward College!
 - Currently working on mastering CSS and JavaScript!
 - I'm constantly Googling everything 🤣
 - 2022 Goals 🥅: Consistently code everyday!
